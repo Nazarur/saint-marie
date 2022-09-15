@@ -69,7 +69,6 @@ header img {
     justify-content: center;
     align-items: center;
     color: #ffffff;
-    background-image: url(/assets/img/variations.jpg);
     height: 613px;
     background-repeat: no-repeat;
     width: 920px;
@@ -94,7 +93,6 @@ header img {
     justify-content: center;
     align-items: center;
     color: #ffffff;
-    background-image: url(/assets/img/vannerias.jpg);
     height: 528px;
     background-repeat: no-repeat;
     width: 920px;
@@ -124,7 +122,6 @@ header img {
     padding-bottom: 17px;
 }
 .collection {
-    background-image: url(/assets/img/collection-sand.jpg);
     width: 442px;
     height: 442px;
     display: flex;
@@ -145,7 +142,6 @@ header img {
     font-size: 12px;
 }
 .collection2 {
-    background-image: url(/assets/img/collection-chanvre.jpg);
     width: 442px;
     height: 442px;
     display: flex;
@@ -174,7 +170,6 @@ header img {
 .last-main {
     width: 283px;
     height: 281px;
-    background-image: url(/assets/img/Correspondances.jpg);
     margin: 17px;
     display: flex;
     justify-content: center;
@@ -197,7 +192,6 @@ header img {
 .last-main2 {
     width: 283px;
     height: 281px;
-    background-image: url(/assets/img/Abris.jpg);
     margin: 17px;
     display: flex;
     justify-content: center;
@@ -207,7 +201,6 @@ header img {
 .last-main3 {
     width: 283px;
     height: 281px;
-    background-image: url(/assets/img/Correspondances\ 2.jpg);
     margin: 17px;
     display: flex;
     justify-content: center;
